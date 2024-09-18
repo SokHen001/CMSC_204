@@ -1,0 +1,5 @@
+I learned how to use regex expression. It's understandable but when it comes to checking sequence and special characters, it gets confusing. For instance, "((.)\\2{2,})". I looked up tutorials on how to implement pattern and matcher to enhance my understanding of the topic. Regular expressions are a powerful tool that I’ve learned to use for pattern matching and text manipulation. With Java’s Pattern and Matcher classes, I can efficiently search, validate, and process strings based on patterns.
+
+Learning about exceptions has helped me understand how to manage unexpected errors and maintain control over the flow of a program. I now know that exceptions allow me to prevent my program from crashing due to runtime errors like invalid input or division by zero.
+
+These concepts have made my code more resilient and efficient. Handling exceptions helps me maintain program stability, while regex allows me to work with strings in a flexible and powerful way. Both of these skills will continue to be valuable as I progress in Java development.
