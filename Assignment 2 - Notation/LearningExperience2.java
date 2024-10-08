@@ -1,0 +1,5 @@
+Learning about generic stacks and queues in Java was a hands-on and engaging experience. Implementing these data structures using generics allowed me to work with different data types in a flexible way, while still keeping the code clean and type-safe. Building the stack and queue from scratch gave me a better understanding of how LIFO and FIFO principles are applied in real-life scenarios, like managing browser history or processing tasks in a system.
+
+When I moved on to operator precedence and expression evaluation, stacks really came into play. I learned how to use a stack to convert and evaluate expressions, ensuring operations happened in the right order, especially when handling parentheses and complex math expressions. This made me realize how important stacks are in parsing and executing operations, whether in calculators or programming language compilers.
+
+Overall, this hands-on work helped me see how foundational data structures like stacks and queues fit into larger problems. It also sharpened my problem-solving skills, teaching me how to handle dynamic data and ensure smooth execution of tasks that rely on precise logic and order.
