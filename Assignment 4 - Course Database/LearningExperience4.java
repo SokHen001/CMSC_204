@@ -1,0 +1,5 @@
+Working on this project gave me hands-on experience with organizing and structuring code in Java. Starting with CourseDBElement and CourseDBStructure, I got to see how data structures like hash tables work behind the scenes, and it was rewarding to understand how they speed up data retrieval for real-world applications.
+
+As I built the CourseDBManager, I learned the value of keeping classes focused on specific tasks. Separating responsibilities made adding and retrieving course data much simpler, and it felt great to see the program coming together more smoothly as each class handled its own piece of the project.
+
+Testing my code turned out to be more challenging than I expected. Writing thorough unit tests helped me catch some unexpected errors, like null values and exceptions that I hadn’t initially considered. This experience showed me just how important it is to plan for a range of inputs and scenarios, and I came away with a better understanding of how tests strengthen a project by catching issues early on.
